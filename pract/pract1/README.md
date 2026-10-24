@@ -316,12 +316,3 @@ pract/pract1/
 | `EmulatorWindow.refresh()`, `recall()`, `cancel()`, `close()` | Обновляют приглашение, перебирают историю, очищают ввод и закрывают окно |
 | `main.py` | `prepare()` читает данные до запуска окна; `main()` выбирает GUI/проверку и возвращает код завершения |
 
-## Использованные образцы структуры
-
-За основу организации папок и документации взяты указанные репозитории:
-
-- [LiliIDK — Configuration-Management-Task-1-Emulator](https://github.com/LiliIDK/Configuration-Management-Task-1-Emulator)
-- [kipertail — Fedorov_IKBO_12_25/pract1](https://github.com/kipertail/Fedorov_IKBO_12_25/tree/main/pract1)
-
-Поведение реализовано по требованиям варианта 23: GUI, CSV,
-остановка сценария при первой ошибке и команды `uptime`, `history`, `date`.
