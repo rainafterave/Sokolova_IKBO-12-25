@@ -1,0 +1,2 @@
+uptime extra
+date +SHOULD_NOT_RUN

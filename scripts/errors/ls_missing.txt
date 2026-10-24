@@ -1,0 +1,2 @@
+ls /missing
+date +SHOULD_NOT_RUN

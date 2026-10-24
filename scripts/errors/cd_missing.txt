@@ -1,0 +1,2 @@
+cd /missing
+date +SHOULD_NOT_RUN

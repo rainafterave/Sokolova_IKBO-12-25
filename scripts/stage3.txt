@@ -1,0 +1,17 @@
+# CSV-VFS и навигация. По умолчанию используется deep.csv.
+ls
+ls -a
+ls -l /home/student
+ls /home/student/docs/drafts/todo.txt
+cd /home/student
+cd "My Documents"
+ls
+cd ../docs/drafts
+ls
+cd .
+cd ../../..
+ls
+cd /
+cd ..
+cd
+exit

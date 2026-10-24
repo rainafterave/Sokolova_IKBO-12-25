@@ -1,0 +1,11 @@
+path,type,data
+/,dir,
+/empty,dir,
+/.hidden,file,SGlkZGVuIGZpbGUK
+/etc/hosts,file,MTI3LjAuMC4xIGxvY2FsaG9zdAo=
+/home/student/docs/drafts/todo.txt,file,0JfQsNGJ0LjRgtC40YLRjCDRh9C10YLRi9GA0LUg0Y3RgtCw0L/QsCDRgNCw0LHQvtGC0YsuCg==
+/home/student/docs/report.txt,file,VmFyaWFudCAyMwo=
+/home/student/My Documents/read me.txt,file,0KTQsNC50Lsg0YEg0L/RgNC+0LHQtdC70LDQvNC4INCyINC/0YPRgtC4Lgo=
+/home/student/image.bin,file,AAECAwQFBgcICQoLDA0ODw==
+/home/student/empty.txt,file,
+/var/log/app/session.log,file,U2Vzc2lvbiBzdGFydGVkCg==

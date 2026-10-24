@@ -1,0 +1,2 @@
+date bad-format
+date +SHOULD_NOT_RUN

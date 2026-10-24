@@ -1,0 +1,2 @@
+history -1
+date +SHOULD_NOT_RUN

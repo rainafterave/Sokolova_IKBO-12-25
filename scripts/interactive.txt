@@ -1,0 +1,7 @@
+# Демонстрация оставляет окно открытым для ввода вручную.
+ls -a
+cd /home/student
+ls -l
+uptime
+date
+history

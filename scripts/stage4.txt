@@ -1,0 +1,25 @@
+# Все команды этапа 4, успешные режимы.
+ls
+ls -a
+ls -l
+ls -al /home/student
+ls /etc /home/student/docs/drafts/todo.txt
+ls -- /home/student
+cd /home/student
+cd "My Documents"
+ls
+cd ../docs/drafts
+ls .
+cd ..
+cd /
+cd ..
+cd
+uptime
+date
+date -u
+date "+%Y-%m-%d %H:%M:%S"
+date -u "+%Y-%m-%d"
+history
+history 3
+history 0
+exit

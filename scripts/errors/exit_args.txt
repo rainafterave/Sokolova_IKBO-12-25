@@ -1,0 +1,2 @@
+exit extra
+date +SHOULD_NOT_RUN
