@@ -27,7 +27,7 @@
 Из корня репозитория в PowerShell:
 
 ```powershell
-cd pract/pract1
+cd pract_1_emulator
 .\run.bat
 ```
 
@@ -98,7 +98,7 @@ history
 
 ## Как проверить
 
-Команды выполняются из папки `pract/pract1`:
+Команды выполняются из папки `pract_1_emulator`:
 
 ```powershell
 py -3 -m unittest discover -s tests -v
