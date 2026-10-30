@@ -1,0 +1,5 @@
+# A depends on B and C; both depend on D.
+A: B C
+B: D
+C: D
+D:

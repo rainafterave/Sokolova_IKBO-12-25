@@ -1,0 +1,6 @@
+    Updating crates.io index
+     Locking 11 packages to highest compatible versions
+ Downloading crates ...
+  Downloaded serde v1.0.229
+  Downloaded serde_json v1.0.154
+  Downloaded zmij v1.0.23

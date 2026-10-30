@@ -1,0 +1,7 @@
+    Updating crates.io index
+     Locking 5 packages to highest compatible versions
+ Downloading crates ...
+  Downloaded aho-corasick v1.1.5
+  Downloaded regex v1.13.1
+  Downloaded regex-syntax v0.8.11
+  Downloaded regex-automata v0.4.18

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.idea/
+.vscode/
+output/
+tmp/
+target/
+*.crate
+*.tar.*
+LOCAL_APPDATA_FONTCONFIG_CACHE/

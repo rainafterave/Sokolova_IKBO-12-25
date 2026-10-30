@@ -1,0 +1,35 @@
+@startuml
+left to right direction
+skinparam componentStyle rectangle
+skinparam shadowing false
+skinparam defaultFontName Monospaced
+skinparam defaultFontSize 13
+component "csv v1.4.0" as N0 #D6EAF8
+component "csv-core v0.1.13" as N1
+component "itoa v1.0.18" as N2
+component "memchr v2.8.3" as N3
+component "proc-macro2 v1.0.107" as N4
+component "quote v1.0.47" as N5
+component "ryu v1.0.23" as N6
+component "serde_core v1.0.229" as N7
+component "serde_derive v1.0.229" as N8
+component "syn v3.0.9" as N9
+component "unicode-ident v1.0.27" as N10
+N0 --> N1
+N0 --> N2
+N0 --> N6
+N0 --> N7
+N1 --> N3
+N4 --> N10
+N5 --> N4
+N7 --> N8
+N8 --> N4
+N8 --> N5
+N8 --> N9
+N9 --> N4
+N9 --> N5
+N9 --> N10
+legend bottom
+Arrow: package -> dependency
+endlegend
+@enduml

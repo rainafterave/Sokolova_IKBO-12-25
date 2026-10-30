@@ -1,0 +1,14 @@
+    Updating crates.io index
+     Locking 11 packages to highest compatible versions
+ Downloading crates ...
+  Downloaded csv-core v0.1.13
+  Downloaded itoa v1.0.18
+  Downloaded unicode-ident v1.0.27
+  Downloaded serde_core v1.0.229
+  Downloaded quote v1.0.47
+  Downloaded ryu v1.0.23
+  Downloaded proc-macro2 v1.0.107
+  Downloaded serde_derive v1.0.229
+  Downloaded memchr v2.8.3
+  Downloaded syn v3.0.9
+  Downloaded csv v1.4.0

@@ -1,0 +1,15 @@
+csv v1.4.0
+|-- csv-core v0.1.13
+|   `-- memchr v2.8.3
+|-- itoa v1.0.18
+|-- ryu v1.0.23
+`-- serde_core v1.0.229
+    `-- serde_derive v1.0.229 (proc-macro)
+        |-- proc-macro2 v1.0.107
+        |   `-- unicode-ident v1.0.27
+        |-- quote v1.0.47
+        |   `-- proc-macro2 v1.0.107 (*)
+        `-- syn v3.0.9
+            |-- proc-macro2 v1.0.107 (*)
+            |-- quote v1.0.47 (*)
+            `-- unicode-ident v1.0.27
